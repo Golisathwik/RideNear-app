@@ -7,6 +7,8 @@ plugins {
     id("dev.flutter.flutter-gradle-plugin")
 }
 
+apply(from = "${project(":flutter_config").projectDir}/dotenv.gradle")
+
 android {
     namespace = "com.example.ridenear"
     compileSdk = flutter.compileSdkVersion
