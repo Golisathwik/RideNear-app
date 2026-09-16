@@ -1,10 +1,10 @@
-# Project Memory Bank (.mb)
+# Project Memory Bank (.md)
 This file serves as a persistent memory and version log for the entire development history of the RideNear (Car Rentals) App. It tracks every version, change, and prompt-driven implementation to maintain context.
 
 ## Maintenance Rules
 1. Every time a change is made, a new version entry must be appended to the Version Log.
 2. Every prompt that leads to a change must be summarized in the log.
-3. The `.mb` file must never be deleted or overwritten — only appended.
+3. The `.md` file must never be deleted or overwritten — only appended.
 
 ---
 
