@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "539167238693",
+    "project_id": "ridenear-4ecf9",
+    "storage_bucket": "ridenear-4ecf9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539167238693:android:90e94a2cef152d2e76edcc",
+        "android_client_info": {
+          "package_name": "com.example.ridenear"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB327FNhyk5atKy0MLDpJRYIdP6FdqrQ1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
